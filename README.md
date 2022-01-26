@@ -1,5 +1,7 @@
 # Awesome Terraform [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/ee8d8535-fafe-41d1-8f16-90dd85f52e01.svg?orgId=311738061891)](https://app.soluble.cloud/repos/details/github.com/oidong1/awesome-terraform?orgId=311738061891)  
+
 > A curated list of resources on [HashiCorp's Terraform](https://www.terraform.io/).
 > [<img src="https://rawgit.com/shuaibiyy/awesome-terraform/master/terraform.svg" align="right" width="100">](https://terraform.io)
 > Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/contributing.md) are welcome!
