@@ -1,4 +1,5 @@
 # Awesome Terraform [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Foidong1%2Fawesome-terraform.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Foidong1%2Fawesome-terraform?ref=badge_shield)
 
 > A curated list of resources on [HashiCorp's Terraform](https://www.terraform.io/).
 > [<img src="https://rawgit.com/shuaibiyy/awesome-terraform/master/terraform.svg" align="right" width="100">](https://terraform.io)
@@ -342,3 +343,6 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, Shuaib Yunus has waived all copyright and related or neighboring rights to this work.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Foidong1%2Fawesome-terraform.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Foidong1%2Fawesome-terraform?ref=badge_large)
